@@ -1,1 +1,1 @@
-consolewrhpasdfnxljkd.og('hello schworld');
+console.log('hello schworld');
